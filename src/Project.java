@@ -53,7 +53,6 @@ public static void main(String[] args)  {
 			  
 			  System.out.println("Student Information added!");
 			 
-
 			
 //			---------------CODE FOR S E L E C T   Q U E R Y--------------------
 			
@@ -73,7 +72,6 @@ public static void main(String[] args)  {
 				 * System.out.println("Student Information!");
 				 */
 			 
-			
 //			---------------CODE FOR U P D A T E  Q U E R Y--------------------
 			
 			/*
