@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>RD_Dispatcher</name>
+=======
+	<name>DEMO_PROJECT</name>
+>>>>>>> 136f744b482eaabd2f4005d45781f873d2ac5935
 	<comment></comment>
 	<projects>
 	</projects>
@@ -10,6 +14,7 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+<<<<<<< HEAD
 		<buildCommand>
 			<name>org.eclipse.wst.common.project.facet.core.builder</name>
 			<arguments>
@@ -27,5 +32,10 @@
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+=======
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> 136f744b482eaabd2f4005d45781f873d2ac5935
 	</natures>
 </projectDescription>
